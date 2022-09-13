@@ -21,6 +21,7 @@ A basic piece of Software written in C++ that performs Linear and Gaussian Regre
 ### TODO
 
 The results are generated and displayed to the console.
-Consider writing the results to .csv or .txt files.
+These results are also saved to the original .txt (input data) files; the results are already generated in the .txt files.
+Consider writing the results to separate .txt files.
 These results can then be visualised using a plotting library such as `Matplotlib`.
 
