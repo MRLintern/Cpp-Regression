@@ -11,7 +11,7 @@ A basic piece of Software written in C++ that performs Linear and Gaussian Regre
 
 ### Instructions
 
-1. Clone the project: $ git clone https://github.com/MRLintern/C++_Regression.git
+1. Clone the project: `$ git clone https://github.com/MRLintern/C++_Regression.git`
 2. Build the project and executable:
 * `$ mkdir build && cd build`
 * `$ cmake ..`
