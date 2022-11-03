@@ -96,6 +96,7 @@ bool regression::coefficients() {
         a = mean_y - b*mean_x;
 
         return true;
+        
     } else {
 
         return false;
