@@ -6,9 +6,9 @@
 ## Requirements
 ---
 
-1. Build Generator:`CMake`
-2. Compiler:`gcc/g++ (9.4.0)`
-3. OS:`Ubuntu 20.04`. However, `Windows 10` can be used providing `wsl` is used within `MS VScode`
+1. `CMake`.
+2. __Compiler__:`gcc/g++ (9.4.0)`.
+3. __OS__:`Ubuntu 20.04`. However, `Windows 10` can be used providing `wsl` is used within `MS VScode`.
 4. Text Editor:`MS VScode` or anything you like.
 
 ## Instructions
